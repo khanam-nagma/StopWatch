@@ -1,5 +1,7 @@
 # StopWatch
 
+[🌐 View the deployed project here](https://nanotimer.netlify.app/)
+
 A simple and elegant stopwatch web application built with HTML, CSS, and JavaScript.
 
 ## Features
